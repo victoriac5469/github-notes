@@ -1,2 +1,5 @@
 # github-notes
-This is a repo for my SEP Unit 2 notes
+1. Git: 
+2. Github: 
+3. Repo: 
+4. Commit: 
