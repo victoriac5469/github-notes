@@ -1,9 +1,9 @@
 January 11, 2021   Github Notes
 
-1. Git: Git exists for something called "version control."
+1. Git: Git is version control.
    - Git is a piece of software that help you keeps track of the entire history of things that you were working on your computer.
    - Special tool which has a lot of advanced features for collaboration.
    - Summary: This is a system that you can use to keep track of the history of a project as well as allow many people to collaborate on the project together.
-2. Github: A web service where you can sign up and have an account and do stuff(like Git) on a server/website.
+2. Github: A web service where you can sign up and have an account and do projects that have control version on them. You can make a repository/project.
 3. Repo: Repository, or a project that can have multiple files in it.
-4. Commit: This is similar to save, is like I change the file and make it save the change.
+4. Commit: This is similar to save, is like I change the file and make it save the change. The commit allows you to browse the edit history and each commit has an unique identifier for it.
